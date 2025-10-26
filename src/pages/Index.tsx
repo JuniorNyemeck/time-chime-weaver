@@ -100,15 +100,15 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div>
               <h1 className="text-3xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-                Mon Emploi du Temps
+                Emploi du Temps THE JDN
               </h1>
               <p className="mt-1 text-sm text-muted-foreground">
-                Gérez votre journée avec précision et efficacité
+                Bas-toi à gérer cette journée avec précision et efficacité boss !
               </p>
             </div>
             <div className="flex items-center gap-2 text-sm text-muted-foreground">
               <div className="rounded-full bg-green-500/20 px-3 py-1.5 text-green-600 dark:text-green-400">
-                ● Actif
+                ● Actif jusqu'àààà
               </div>
             </div>
           </div>
